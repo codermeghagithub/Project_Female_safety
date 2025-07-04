@@ -123,7 +123,7 @@ Aura Secure is a mobile application designed to enhance personal safety for wome
 ## 📸 Screenshots
 
 ![Panic Mode](https://github.com/codermeghagithub/Project_Female_safety/blob/40c0cd44f03fb8f5b97a31f8504ec336731bc7e0/dashbord_github.png)
-![Location Sharing](https://github.com/codermeghagithub/Project_Female_safety/blob/22e935ffeaadf041633b99b62c73ec356f136f78/this_ismobileformatscreensort.png)
+![Location Sharing](https://github.com/codermeghagithub/Project_Female_safety/blob/8b498a2ccf02c8bd0d47975e479dcc6a17626e1f/locationgithub.png)
 
 
 ## 🧑‍💻 Authors
